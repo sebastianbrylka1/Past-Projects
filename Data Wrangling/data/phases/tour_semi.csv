@@ -1,0 +1,23 @@
+rank,name,country_name,country_id,count,lastDate
+1,Roger Federer,Switzerland,SUI,11,2019-11-11
+2,Novak Djokovic,Serbia,SRB,8,2018-11-12
+3,Rafael Nadal,Spain,ESP,4,2015-11-15
+3,Andy Murray,United Kingdom,GBR,4,2016-11-14
+5,Stan Wawrinka,Switzerland,SUI,3,2015-11-15
+6,Nikolay Davydenko,Russian Federation,RUS,2,2009-11-22
+6,David Ferrer,Spain,ESP,2,2011-11-20
+6,Juan Martin Del Potro,Argentina,ARG,2,2012-11-05
+6,Kei Nishikori,Japan,JPN,2,2016-11-14
+6,Alexander Zverev,Germany,GER,2,2019-11-11
+11,Andy Roddick,United States,USA,1,2007-11-12
+11,Gilles Simon,France,FRA,1,2008-11-09
+11,Robin Soderling,Sweden,SWE,1,2009-11-22
+11,Tomas Berdych,Czech Republic,CZE,1,2011-11-20
+11,Jo Wilfried Tsonga,France,FRA,1,2011-11-20
+11,Milos Raonic,Canada,CAN,1,2016-11-14
+11,David Goffin,Belgium,BEL,1,2017-11-13
+11,Grigor Dimitrov,Bulgaria,BUL,1,2017-11-13
+11,Jack Sock,United States,USA,1,2017-11-13
+11,Kevin Anderson,South Africa,RSA,1,2018-11-12
+11,Dominic Thiem,Austria,AUT,1,2019-11-11
+11,Stefanos Tsitsipas,Greece,GRE,1,2019-11-11

@@ -1,0 +1,21 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,Rafael Nadal,Spain,ESP,10645,1,2008-08-18,0,0,15390
+2,Roger Federer,Switzerland,SUI,9605,1,2004-02-02,0,0,12315
+3,Grigor Dimitrov,Bulgaria,BUL,5150,3,2017-11-20,0,0,5150
+4,Alexander Zverev,Germany,GER,4610,2,2022-06-13,0,0,8240
+5,Dominic Thiem,Austria,AUT,4015,3,2020-03-02,0,0,9125
+6,Marin Cilic,Croatia,CRO,3805,3,2018-01-29,0,0,5155
+7,David Goffin,Belgium,BEL,3775,7,2017-11-20,0,0,3775
+8,Jack Sock,United States,USA,3165,8,2017-11-20,0,0,3165
+9,Stan Wawrinka,Switzerland,SUI,3150,3,2014-01-27,0,0,6865
+10,Pablo Carreno Busta,Spain,ESP,2615,10,2017-09-11,0,0,3325
+11,Juan Martin Del Potro,Argentina,ARG,2595,3,2018-08-13,0,0,6825
+12,Novak Djokovic,Serbia,SRB,2585,1,2011-07-04,0,0,16950
+13,Sam Querrey,United States,USA,2535,11,2018-02-26,0,0,2595
+14,Kevin Anderson,South Africa,RSA,2480,5,2018-07-16,0,0,4845
+15,Jo Wilfried Tsonga,France,FRA,2320,5,2012-02-27,0,0,5230
+16,Andy Murray,United Kingdom,GBR,2290,1,2016-11-07,0,0,12685
+17,John Isner,United States,USA,2265,8,2018-07-16,0,0,3720
+18,Lucas Pouille,France,FRA,2235,10,2018-03-19,0,0,2746
+19,Tomas Berdych,Czech Republic,CZE,2095,4,2015-05-18,0,0,5230
+20,Roberto Bautista Agut,Spain,ESP,2015,9,2019-11-04,0,0,3215

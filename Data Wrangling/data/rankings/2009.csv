@@ -1,0 +1,21 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,Roger Federer,Switzerland,SUI,10550,1,2004-02-02,0,0,12315
+2,Rafael Nadal,Spain,ESP,9205,1,2008-08-18,0,0,15390
+3,Novak Djokovic,Serbia,SRB,8310,1,2011-07-04,0,0,16950
+4,Andy Murray,United Kingdom,GBR,7030,1,2016-11-07,0,0,12685
+5,Juan Martin Del Potro,Argentina,ARG,6785,3,2018-08-13,0,0,6825
+6,Nikolay Davydenko,Russian Federation,RUS,4930,3,2006-11-06,0,0,5335
+7,Andy Roddick,United States,USA,4410,1,2003-11-03,0,0,5800
+8,Robin Soderling,Sweden,SWE,3410,4,2010-11-15,0,0,6055
+9,Fernando Verdasco,Spain,ESP,3300,7,2009-04-20,0,0,3900
+10,Jo Wilfried Tsonga,France,FRA,2875,5,2012-02-27,0,0,5230
+11,Fernando Gonzalez,Chile,CHI,2870,5,2007-01-29,0,0,3285
+12,Radek Stepanek,Czech Republic,CZE,2625,8,2006-07-10,0,0,2700
+13,Gael Monfils,France,FRA,2610,6,2016-11-07,0,0,3815
+14,Marin Cilic,Croatia,CRO,2430,3,2018-01-29,0,0,5155
+15,Gilles Simon,France,FRA,2275,6,2009-01-05,0,0,4170
+16,Tommy Robredo,Spain,ESP,2175,5,2006-08-28,0,0,2770
+17,David Ferrer,Spain,ESP,1870,3,2013-07-08,0,0,7220
+18,Tommy Haas,Germany,GER,1855,2,2002-05-13,0,0,3030
+19,Mikhail Youzhny,Russian Federation,RUS,1690,8,2008-01-28,0,0,3500
+20,Tomas Berdych,Czech Republic,CZE,1655,4,2015-05-18,0,0,5230

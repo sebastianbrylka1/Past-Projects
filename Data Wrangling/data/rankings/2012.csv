@@ -1,0 +1,21 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,Novak Djokovic,Serbia,SRB,12920,1,2011-07-04,0,0,16950
+2,Roger Federer,Switzerland,SUI,10265,1,2004-02-02,0,0,12315
+3,Andy Murray,United Kingdom,GBR,8000,1,2016-11-07,0,0,12685
+4,Rafael Nadal,Spain,ESP,6690,1,2008-08-18,0,0,15390
+5,David Ferrer,Spain,ESP,6505,3,2013-07-08,0,0,7220
+6,Tomas Berdych,Czech Republic,CZE,4680,4,2015-05-18,0,0,5230
+7,Juan Martin Del Potro,Argentina,ARG,4480,3,2018-08-13,0,0,6825
+8,Jo Wilfried Tsonga,France,FRA,3490,5,2012-02-27,0,0,5230
+9,Janko Tipsarevic,Serbia,SRB,2990,8,2012-04-02,0,0,3320
+10,Richard Gasquet,France,FRA,2515,7,2007-07-09,0,0,3365
+11,Nicolas Almagro,Spain,ESP,2515,9,2011-05-02,0,0,2735
+12,Juan Monaco,Argentina,ARG,2430,10,2012-07-23,0,0,2775
+13,Milos Raonic,Canada,CAN,2380,3,2016-11-21,0,0,5450
+14,John Isner,United States,USA,2215,8,2018-07-16,0,0,3720
+15,Marin Cilic,Croatia,CRO,2210,3,2018-01-29,0,0,5155
+16,Gilles Simon,France,FRA,2165,6,2009-01-05,0,0,4170
+17,Stan Wawrinka,Switzerland,SUI,1900,3,2014-01-27,0,0,6865
+18,Alexandr Dolgopolov,Ukraine,UKR,1855,13,2012-01-16,0,0,2030
+19,Kei Nishikori,Japan,JPN,1830,4,2015-03-02,0,0,6385
+20,Philipp Kohlschreiber,Germany,GER,1770,16,2012-07-30,0,0,2160

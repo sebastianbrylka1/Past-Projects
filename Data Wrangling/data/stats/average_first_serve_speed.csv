@@ -1,0 +1,116 @@
+rank,name,country_name,country_id,active,value
+1,Marius Copil,Romania,ROU,true,211 km/h
+2,Feliciano Lopez,Spain,ESP,true,207 km/h
+3,Alexander Bublik,Kazakhstan,KAZ,true,204 km/h
+4,Nick Kyrgios,Australia,AUS,true,204 km/h
+5,Reilly Opelka,United States,USA,true,204 km/h
+6,Jiri Vesely,Czech Republic,CZE,true,204 km/h
+7,Alexander Zverev,Germany,GER,true,203 km/h
+8,Matteo Berrettini,Italy,ITA,true,203 km/h
+9,Denis Shapovalov,Canada,CAN,true,200 km/h
+10,Hubert Hurkacz,Poland,POL,true,200 km/h
+11,Jan Lennard Struff,Germany,GER,true,200 km/h
+12,Vasek Pospisil,Canada,CAN,true,200 km/h
+13,Felix Auger Aliassime,Canada,CAN,true,199 km/h
+14,Arthur Rinderknech,France,FRA,true,198 km/h
+14,Kevin Anderson,South Africa,RSA,true,198 km/h
+16,John Isner,United States,USA,true,197 km/h
+17,Alexei Popyrin,Australia,AUS,true,197 km/h
+17,Pierre Hugues Herbert,France,FRA,true,197 km/h
+19,Stefanos Tsitsipas,Greece,GRE,true,196 km/h
+20,Lorenzo Sonego,Italy,ITA,true,196 km/h
+21,Stan Wawrinka,Switzerland,SUI,true,196 km/h
+22,Jo Wilfried Tsonga,France,FRA,true,196 km/h
+23,Borna Coric,Croatia,CRO,true,195 km/h
+24,Taylor Harry Fritz,United States,USA,true,195 km/h
+25,Sam Querrey,United States,USA,true,195 km/h
+26,Thanasi Kokkinakis,Australia,AUS,true,195 km/h
+27,Frances Tiafoe,United States,USA,true,194 km/h
+28,Grigor Dimitrov,Bulgaria,BUL,true,194 km/h
+29,Daniil Medvedev,Russian Federation,RUS,true,194 km/h
+30,Nicolas Jarry,Chile,CHI,true,194 km/h
+31,Lloyd George Muirhead Harris,South Africa,RSA,true,193 km/h
+32,Marin Cilic,Croatia,CRO,true,193 km/h
+33,Kyle Edmund,United Kingdom,GBR,true,193 km/h
+34,Steve Johnson,United States,USA,true,192 km/h
+35,Benoit Paire,France,FRA,true,191 km/h
+36,Casper Ruud,Norway,NOR,true,191 km/h
+37,Emil Ruusuvuori,Finland,FIN,true,191 km/h
+38,Jannik Sinner,Italy,ITA,true,190 km/h
+39,Andy Murray,United Kingdom,GBR,true,190 km/h
+40,Karen Khachanov,Russian Federation,RUS,true,189 km/h
+41,Dennis Novak,Austria,AUT,true,189 km/h
+41,James Duckworth,Australia,AUS,true,189 km/h
+43,Botic Van De Zandschulp,Netherlands,NED,true,188 km/h
+44,Andrey Rublev,Russian Federation,RUS,true,188 km/h
+45,Aljaz Bedene,Slovenia,SLO,true,188 km/h
+45,Malek Jaziri,Tunisia,TUN,true,188 km/h
+45,Peter Gojowczyk,Germany,GER,true,188 km/h
+48,Novak Djokovic,Serbia,SRB,true,187 km/h
+49,Aslan Karatsev,Russian Federation,RUS,true,187 km/h
+50,Miomir Kecmanovic,Serbia,SRB,true,187 km/h
+51,Carlos Alcaraz Garfia,Spain,ESP,true,187 km/h
+52,Thiago Monteiro,Brazil,BRA,true,187 km/h
+53,Laslo Djere,Serbia,SRB,true,186 km/h
+54,Marton Fucsovics,Hungary,HUN,true,186 km/h
+55,Tommy Paul,United States,USA,true,186 km/h
+56,Elias Ymer,Sweden,SWE,true,186 km/h
+56,Gael Monfils,France,FRA,true,186 km/h
+56,Henri Laaksonen,Switzerland,SUI,true,186 km/h
+56,Salvatore Caruso,Italy,ITA,true,186 km/h
+56,Stefano Travaglia,Italy,ITA,true,186 km/h
+61,Rafael Nadal,Spain,ESP,true,185 km/h
+62,Lorenzo Musetti,Italy,ITA,true,185 km/h
+63,Sebastian Korda,United States,USA,true,185 km/h
+64,Ugo Humbert,France,FRA,true,185 km/h
+65,Jack Sock,United States,USA,true,185 km/h
+65,Soon Woo Kwon,"Korea, Republic of",KOR,true,185 km/h
+67,Marcos Giron,United States,USA,true,184 km/h
+68,Dominic Thiem,Austria,AUT,true,184 km/h
+69,Alex De Minaur,Australia,AUS,true,184 km/h
+70,Daniel Evans,United Kingdom,GBR,true,183 km/h
+71,Ilya Ivashka,Belarus,BLR,true,183 km/h
+72,Dusan Lajovic,Serbia,SRB,true,183 km/h
+73,Alejandro Davidovich Fokina,Spain,ESP,true,183 km/h
+74,Denis Kudla,United States,USA,true,183 km/h
+75,Christian Garin,Chile,CHI,true,183 km/h
+76,Facundo Bagnis,Argentina,ARG,true,183 km/h
+76,John Millman,Australia,AUS,true,183 km/h
+76,Tennys Sandgren,United States,USA,true,183 km/h
+79,Nikoloz Basilashvili,Georgia,GEO,true,182 km/h
+80,Ricardas Berankis,Lithuania,LTU,true,182 km/h
+81,Taro Daniel,Japan,JPN,true,181 km/h
+82,Fabio Fognini,Italy,ITA,true,181 km/h
+83,Joao Sousa,Portugal,POR,true,181 km/h
+83,Mikhail Kukushkin,Kazakhstan,KAZ,true,181 km/h
+85,Adrian Mannarino,France,FRA,true,180 km/h
+86,Denis Istomin,Uzbekistan,UZB,true,180 km/h
+86,Fernando Verdasco,Spain,ESP,true,180 km/h
+86,Guido Pella,Argentina,ARG,true,180 km/h
+89,Filip Krajinovic,Serbia,SRB,true,179 km/h
+90,Mikael Ymer,Sweden,SWE,true,179 km/h
+91,David Goffin,Belgium,BEL,true,178 km/h
+92,Pablo Carreno Busta,Spain,ESP,true,178 km/h
+93,Andreas Seppi,Italy,ITA,true,178 km/h
+93,Federico Coria,Argentina,ARG,true,178 km/h
+93,Richard Gasquet,France,FRA,true,178 km/h
+96,Radu Albot,"Moldova, Republic of",MDA,true,177 km/h
+97,Dominik Koepfer,Germany,GER,true,177 km/h
+97,Jozef Kovalik,Slovakia,SVK,true,177 km/h
+99,Jaume Munar,Spain,ESP,true,176 km/h
+100,Roberto Carballes Baena,Spain,ESP,true,176 km/h
+101,Pedro Martinez Portero,Spain,ESP,true,175 km/h
+102,Cameron Norrie,United Kingdom,GBR,true,175 km/h
+103,Philipp Kohlschreiber,Germany,GER,true,175 km/h
+104,Mackenzie Mcdonald,United States,USA,true,174 km/h
+105,Pablo Cuevas,Uruguay,URU,true,174 km/h
+106,Federico Delbonis,Argentina,ARG,true,172 km/h
+107,Kei Nishikori,Japan,JPN,true,171 km/h
+108,Jordan Thompson,Australia,AUS,true,170 km/h
+109,Roberto Bautista Agut,Spain,ESP,true,169 km/h
+110,Albert Ramos,Spain,ESP,true,168 km/h
+111,Egor Gerasimov,Belarus,BLR,true,167 km/h
+112,Diego Sebastian Schwartzman,Argentina,ARG,true,165 km/h
+113,Corentin Moutet,France,FRA,true,163 km/h
+114,Yoshihito Nishioka,Japan,JPN,true,157 km/h
+115,Pablo Andujar,Spain,ESP,true,146 km/h
