@@ -1,0 +1,76 @@
+rank,name,country_name,country_id,count,lastDate
+1,Novak Djokovic,Serbia,SRB,67,2019-10-28
+2,Rafael Nadal,Spain,ESP,65,2019-10-28
+3,Roger Federer,Switzerland,SUI,48,2019-03-18
+4,Andy Murray,United Kingdom,GBR,32,2016-10-31
+5,Tomas Berdych,Czech Republic,CZE,17,2015-05-03
+6,David Ferrer,Spain,ESP,15,2017-08-14
+7,Juan Martin Del Potro,Argentina,ARG,12,2018-03-19
+7,John Isner,United States,USA,12,2019-03-18
+9,Kei Nishikori,Japan,JPN,11,2018-04-16
+10,Milos Raonic,Canada,CAN,10,2019-03-04
+11,Jo Wilfried Tsonga,France,FRA,9,2016-04-11
+11,Stan Wawrinka,Switzerland,SUI,9,2017-03-06
+13,Andy Roddick,United States,USA,8,2010-08-15
+13,Alexander Zverev,Germany,GER,8,2019-10-07
+15,Nikolay Davydenko,Russian Federation,RUS,6,2009-10-11
+15,Gilles Simon,France,FRA,6,2016-10-10
+15,Dominic Thiem,Austria,AUT,6,2019-05-06
+15,Gael Monfils,France,FRA,6,2019-08-05
+15,Grigor Dimitrov,Bulgaria,BUL,6,2019-10-28
+20,Mardy Fish,United States,USA,5,2011-08-14
+20,Marin Cilic,Croatia,CRO,5,2018-08-13
+20,Richard Gasquet,France,FRA,5,2019-08-12
+20,David Goffin,Belgium,BEL,5,2019-08-12
+24,Feliciano Lopez,Spain,ESP,4,2014-10-05
+24,Daniil Medvedev,Russian Federation,RUS,4,2019-10-07
+24,Stefanos Tsitsipas,Greece,GRE,4,2019-10-07
+24,Denis Shapovalov,Canada,CAN,4,2019-10-28
+28,David Nalbandian,Argentina,ARG,3,2008-10-26
+28,Radek Stepanek,Czech Republic,CZE,3,2009-11-08
+28,Robin Soderling,Sweden,SWE,3,2010-11-07
+28,Janko Tipsarevic,Serbia,SRB,3,2012-08-06
+28,Nick Kyrgios,Australia,AUS,3,2017-08-14
+28,Fabio Fognini,Italy,ITA,3,2019-04-15
+28,Karen Khachanov,Russian Federation,RUS,3,2019-08-05
+35,Lleyton Hewitt,Australia,AUS,2,2007-08-13
+35,Nicolas Kiefer,Germany,GER,2,2008-07-21
+35,James Blake,United States,USA,2,2008-10-26
+35,Fernando Gonzalez,Chile,CHI,2,2009-04-27
+35,Ivan Ljubicic,Croatia,CRO,2,2010-03-11
+35,Fernando Verdasco,Spain,ESP,2,2010-04-25
+35,Marcos Baghdatis,Cyprus,CYP,2,2010-08-15
+35,Juan Monaco,Argentina,ARG,2,2012-03-21
+35,Michael Llodra,France,FRA,2,2012-10-29
+35,Alexandr Dolgopolov,Ukraine,UKR,2,2015-08-16
+35,Roberto Bautista Agut,Spain,ESP,2,2016-10-10
+35,Lucas Pouille,France,FRA,2,2017-04-17
+35,Jack Sock,United States,USA,2,2017-10-30
+35,Julien Benneteau,France,FRA,2,2017-10-30
+35,Pablo Carreno Busta,Spain,ESP,2,2018-03-19
+35,Kevin Anderson,South Africa,RSA,2,2018-08-06
+35,Borna Coric,Croatia,CRO,2,2018-10-08
+52,Guillermo Canas,Argentina,ARG,1,2007-03-19
+52,Juan Carlos Ferrero,Spain,ESP,1,2007-04-15
+52,Filippo Volandri,Italy,ITA,1,2007-05-07
+52,Carlos Moya,Spain,ESP,1,2007-05-14
+52,Andreas Seppi,Italy,ITA,1,2008-05-11
+52,Ivo Karlovic,Croatia,CRO,1,2008-07-28
+52,Ernests Gulbis,Latvia,LAT,1,2010-04-25
+52,Nicolas Almagro,Spain,ESP,1,2010-05-09
+52,Jurgen Melzer,Austria,AUT,1,2011-04-10
+52,Thomaz Bellucci,Brazil,BRA,1,2011-05-01
+52,Jerzy Janowicz,Poland,POL,1,2012-10-29
+52,Tommy Haas,Germany,GER,1,2013-03-20
+52,Pablo Andujar,Spain,ESP,1,2013-05-05
+52,Benoit Paire,France,FRA,1,2013-05-12
+52,Vasek Pospisil,Canada,CAN,1,2013-08-05
+52,Jeremy Chardy,France,FRA,1,2015-08-10
+52,Albert Ramos,Spain,ESP,1,2017-04-17
+52,Pablo Cuevas,Uruguay,URU,1,2017-05-08
+52,Robin Haase,Netherlands,NED,1,2017-08-07
+52,Filip Krajinovic,Serbia,SRB,1,2017-10-30
+52,Felix Auger Aliassime,Canada,CAN,1,2019-03-18
+52,Dusan Lajovic,Serbia,SRB,1,2019-04-15
+52,Diego Sebastian Schwartzman,Argentina,ARG,1,2019-05-13
+52,Matteo Berrettini,Italy,ITA,1,2019-10-07

@@ -1,0 +1,21 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,Novak Djokovic,Serbia,SRB,9045,1,2011-07-04,0,0,16950
+2,Rafael Nadal,Spain,ESP,7480,1,2008-08-18,0,0,15390
+3,Roger Federer,Switzerland,SUI,6420,1,2004-02-02,0,0,12315
+4,Alexander Zverev,Germany,GER,6385,2,2022-06-13,0,0,8240
+5,Juan Martin Del Potro,Argentina,ARG,5300,3,2018-08-13,0,0,6825
+6,Kevin Anderson,South Africa,RSA,4710,5,2018-07-16,0,0,4845
+7,Marin Cilic,Croatia,CRO,4250,3,2018-01-29,0,0,5155
+8,Dominic Thiem,Austria,AUT,4095,3,2020-03-02,0,0,9125
+9,Kei Nishikori,Japan,JPN,3590,4,2015-03-02,0,0,6385
+10,John Isner,United States,USA,3155,8,2018-07-16,0,0,3720
+11,Karen Khachanov,Russian Federation,RUS,2835,8,2019-07-15,0,0,2990
+12,Borna Coric,Croatia,CRO,2480,12,2018-11-05,0,0,2695
+13,Fabio Fognini,Italy,ITA,2315,9,2019-07-15,0,0,2920
+14,Kyle Edmund,United Kingdom,GBR,2150,14,2018-10-08,0,0,2330
+15,Stefanos Tsitsipas,Greece,GRE,2095,3,2021-08-09,0,0,8350
+16,Daniil Medvedev,Russian Federation,RUS,1977,1,2022-02-28,0,0,10780
+17,Diego Sebastian Schwartzman,Argentina,ARG,1880,8,2020-10-12,0,0,3765
+18,Milos Raonic,Canada,CAN,1855,3,2016-11-21,0,0,5450
+19,Grigor Dimitrov,Bulgaria,BUL,1835,3,2017-11-20,0,0,5150
+20,Marco Cecchinato,Italy,ITA,1819,16,2019-02-25,0,0,2091
